@@ -1,6 +1,6 @@
 # Project Ronin
 ## Summary
-We would like to offer a learning program that teaches students how to develop sustainable businesses with less money. It will focus on the development of software development and application of this in producing a product/service that helps address a more socially-oriented problem while ensuring project survival. We believe our program teaches skills that are more needed going into the 21st century, unlike other institutions that focus on antiquated concepts.
+We would like to offer a learning program that teaches students how to develop sustainable businesses with less money. It will focus on the development of software development and application of this in producing a product/service that helps address a more socially-oriented problem while ensuring project survival. We believe our program teaches skills that are more needed going into the 21st century, unlike other institutions that focus on antiquated concepts based on paradigms of the last century [1].
 
 ## Program themes
 Main themes covered in the program include: computational science, yourself and leadership, teamwork & effective collaboration, social entrepreneurship, fundraising & marketing. It will be aimed at self-directed learners, that focusses on female (or binary or other). This program will be run as an adjunct to other more 'formal' education, although no lower age requirement is set.
@@ -18,3 +18,6 @@ We have some idea of the entities that we want to have influence within our prog
 
 ### Influencer: OpenMM
 [OpenMM](https://openmm.org/) is a toolkit for molecular simulation optimised for high-performance computing. Developed for use on a distributed network, we believe OpenMM could lead to lower-cost, more-equitable vaccine development that helps significantly more people while increasing the rates of innovation via more merit-based development.
+
+# Further learning
+[1] Gary explains what is really happening in the economy – what this means for you, and what you can do about it: https://www.youtube.com/garyseconomics
